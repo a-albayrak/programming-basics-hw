@@ -1,4 +1,4 @@
-# CENG113 Homework 4: Customer Order and Receipt Generator
+# Programming Basics Homework: Customer Order and Receipt Generator
 
 ## Overview
 
